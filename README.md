@@ -14,4 +14,12 @@ leetcode problems
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1908-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
