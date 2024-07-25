@@ -22,4 +22,8 @@ leetcode problems
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0027-remove-element) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
