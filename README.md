@@ -22,10 +22,16 @@ leetcode problems
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0027-remove-element) |
+| [0633-sum-of-square-numbers](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0633-sum-of-square-numbers) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0007-reverse-integer) |
 | [0263-ugly-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0507-perfect-number) |
+| [0633-sum-of-square-numbers](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0633-sum-of-square-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
