@@ -1,20 +1,17 @@
 class Solution {
     public boolean isHappy(int n) {
-        int slow = n;
-        int fast = n;
-        do{
-            slow = helper(slow);
-            fast = helper(helper(fast));
-        }while(slow != fast && fast !=1);
-        if(fast == 1) return true;
-        return false;
-    }
-    static int helper(int n){
-        int ans = 0;
-        while(n>0){
-            ans += (int) Math.pow(n%10,2);
-            n/=10;
+        int d, s = 0;
+        while (true) {
+            while (n != 0) {
+                d = n % 10;
+                s = s + d * d;
+                n = n / 10;
+            }
+            if (s <= 9) break;
+            n = s;
+            s = 0;
         }
-        return ans;
+        if (s == 1 || s == 7) return true;
+        return false;
     }
 }
