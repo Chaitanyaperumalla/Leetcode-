@@ -21,10 +21,12 @@ leetcode problems
 | [0027-remove-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0633-sum-of-square-numbers) |
 ## Math
@@ -57,4 +59,8 @@ leetcode problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
