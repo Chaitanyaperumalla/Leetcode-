@@ -22,6 +22,7 @@ leetcode problems
 | [0053-maximum-subarray](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@ leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0202-happy-number) |
 ## Matrix
 |  |
@@ -55,6 +57,7 @@ leetcode problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,4 +66,9 @@ leetcode problems
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
