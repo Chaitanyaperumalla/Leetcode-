@@ -17,6 +17,7 @@ leetcode problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0073-set-matrix-zeroes) |
@@ -41,6 +42,7 @@ leetcode problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0202-happy-number) |
 ## Matrix
