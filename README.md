@@ -25,6 +25,7 @@ leetcode problems
 | [0075-sort-colors](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Two Pointers
@@ -87,10 +88,12 @@ leetcode problems
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0503-next-greater-element-ii) |
 ## Number Theory
 |  |
 | ------- |
