@@ -23,6 +23,7 @@ leetcode problems
 | [0073-set-matrix-zeroes](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ leetcode problems
 | [0263-ugly-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0633-sum-of-square-numbers) |
+| [1635-number-of-good-pairs](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +51,7 @@ leetcode problems
 | [0073-set-matrix-zeroes](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0202-happy-number) |
+| [1635-number-of-good-pairs](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1635-number-of-good-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -71,4 +74,5 @@ leetcode problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
