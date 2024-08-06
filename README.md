@@ -23,6 +23,7 @@ leetcode problems
 | [0073-set-matrix-zeroes](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [1635-number-of-good-pairs](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -51,6 +52,7 @@ leetcode problems
 | [0073-set-matrix-zeroes](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0202-happy-number) |
+| [0496-next-greater-element-i](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [1635-number-of-good-pairs](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1635-number-of-good-pairs) |
 ## Matrix
 |  |
@@ -75,4 +77,12 @@ leetcode problems
 | ------- |
 | [0169-majority-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1635-number-of-good-pairs) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
