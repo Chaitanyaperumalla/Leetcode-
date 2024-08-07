@@ -7,7 +7,6 @@ class Solution {
      
 
      for(int i=a;i<nums.length;i++) nums[i]=0;
-    return;
 
     }
     
