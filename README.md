@@ -47,6 +47,7 @@ leetcode problems
 | [0007-reverse-integer](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0507-perfect-number) |
 | [0556-next-greater-element-iii](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0556-next-greater-element-iii) |
@@ -107,9 +108,14 @@ leetcode problems
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0258-add-digits) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## String
 |  |
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0556-next-greater-element-iii) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
