@@ -45,6 +45,7 @@ leetcode problems
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0507-perfect-number) |
@@ -55,6 +56,7 @@ leetcode problems
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0792-binary-search) |
 ## Hash Table
