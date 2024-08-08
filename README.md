@@ -28,6 +28,7 @@ leetcode problems
 | [0283-move-zeroes](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0503-next-greater-element-ii) |
+| [0605-can-place-flowers](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0792-binary-search) |
 | [1635-number-of-good-pairs](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -118,4 +119,8 @@ leetcode problems
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0258-add-digits) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
