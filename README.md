@@ -29,6 +29,7 @@ leetcode problems
 | [0136-single-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0503-next-greater-element-ii) |
@@ -60,6 +61,7 @@ leetcode problems
 | [0202-happy-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0507-perfect-number) |
 | [0556-next-greater-element-iii](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0633-sum-of-square-numbers) |
@@ -70,6 +72,7 @@ leetcode problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0792-binary-search) |
 ## Hash Table
@@ -79,6 +82,7 @@ leetcode problems
 | [0073-set-matrix-zeroes](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [1635-number-of-good-pairs](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -103,6 +107,7 @@ leetcode problems
 | [0075-sort-colors](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -145,4 +150,5 @@ leetcode problems
 | ------- |
 | [0067-add-binary](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
