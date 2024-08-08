@@ -128,6 +128,7 @@ leetcode problems
 | ------- |
 | [0067-add-binary](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0067-add-binary) |
 | [0556-next-greater-element-iii](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0556-next-greater-element-iii) |
+| [2401-count-asterisks](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/2401-count-asterisks) |
 ## Simulation
 |  |
 | ------- |
