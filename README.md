@@ -26,6 +26,7 @@ leetcode problems
 | [0075-sort-colors](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0283-move-zeroes) |
@@ -132,4 +133,8 @@ leetcode problems
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0605-can-place-flowers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
