@@ -18,6 +18,7 @@ leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0053-maximum-subarray) |
@@ -61,6 +62,7 @@ leetcode problems
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0792-binary-search) |
@@ -81,6 +83,7 @@ leetcode problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0169-majority-element) |
 ## Dynamic Programming
