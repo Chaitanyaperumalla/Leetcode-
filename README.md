@@ -85,6 +85,7 @@ leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0202-happy-number) |
@@ -141,6 +142,7 @@ leetcode problems
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0344-reverse-string) |
 | [0556-next-greater-element-iii](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0556-next-greater-element-iii) |
@@ -162,4 +164,8 @@ leetcode problems
 | [0136-single-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0287-find-the-duplicate-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
