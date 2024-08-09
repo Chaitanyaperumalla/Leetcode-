@@ -24,6 +24,7 @@ leetcode problems
 | [0042-trapping-rain-water](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -77,6 +78,7 @@ leetcode problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0633-sum-of-square-numbers) |
@@ -97,6 +99,7 @@ leetcode problems
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
