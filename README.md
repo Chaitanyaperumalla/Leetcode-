@@ -42,6 +42,7 @@ leetcode problems
 | [0503-next-greater-element-ii](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0907-koko-eating-bananas) |
 | [1635-number-of-good-pairs](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -93,6 +94,7 @@ leetcode problems
 | [0287-find-the-duplicate-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
