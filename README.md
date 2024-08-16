@@ -29,6 +29,7 @@ leetcode problems
 | [0041-first-missing-positive](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0075-sort-colors) |
@@ -72,6 +73,7 @@ leetcode problems
 | [0007-reverse-integer](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0070-climbing-stairs) |
