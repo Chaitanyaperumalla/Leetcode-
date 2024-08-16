@@ -74,6 +74,7 @@ leetcode problems
 | [0050-powx-n](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0258-add-digits) |
@@ -134,6 +135,7 @@ leetcode problems
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -200,4 +202,8 @@ leetcode problems
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0050-powx-n) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
