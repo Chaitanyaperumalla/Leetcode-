@@ -49,6 +49,7 @@ leetcode problems
 | [0792-binary-search](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1019-squares-of-a-sorted-array) |
+| [1127-last-stone-weight](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1127-last-stone-weight) |
 | [1635-number-of-good-pairs](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -230,4 +231,8 @@ leetcode problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
