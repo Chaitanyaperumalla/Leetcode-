@@ -83,6 +83,7 @@ leetcode problems
 | [0258-add-digits](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0507-perfect-number) |
 | [0556-next-greater-element-iii](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0633-sum-of-square-numbers) |
@@ -211,4 +212,12 @@ leetcode problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0070-climbing-stairs) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
