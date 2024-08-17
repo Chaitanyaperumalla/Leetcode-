@@ -79,6 +79,7 @@ leetcode problems
 | [0070-climbing-stairs](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0268-missing-number) |
@@ -194,6 +195,7 @@ leetcode problems
 | ------- |
 | [0067-add-binary](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
@@ -204,6 +206,7 @@ leetcode problems
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
