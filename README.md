@@ -48,6 +48,7 @@ leetcode problems
 | [0605-can-place-flowers](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0907-koko-eating-bananas) |
+| [1019-squares-of-a-sorted-array](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1019-squares-of-a-sorted-array) |
 | [1635-number-of-good-pairs](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -68,6 +69,7 @@ leetcode problems
 | [0344-reverse-string](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0344-reverse-string) |
 | [0556-next-greater-element-iii](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0633-sum-of-square-numbers) |
+| [1019-squares-of-a-sorted-array](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -150,6 +152,7 @@ leetcode problems
 | [0088-merge-sorted-array](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
