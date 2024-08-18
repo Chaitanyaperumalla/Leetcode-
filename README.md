@@ -39,6 +39,7 @@ leetcode problems
 | [0136-single-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0283-move-zeroes) |
@@ -123,6 +124,7 @@ leetcode problems
 | [0073-set-matrix-zeroes](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [1635-number-of-good-pairs](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1635-number-of-good-pairs) |
@@ -154,6 +156,7 @@ leetcode problems
 | [0075-sort-colors](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
