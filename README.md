@@ -52,6 +52,7 @@ leetcode problems
 | [1127-last-stone-weight](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1127-last-stone-weight) |
 | [1635-number-of-good-pairs](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2350-find-closest-number-to-zero](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/2350-find-closest-number-to-zero) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Two Pointers
 |  |
