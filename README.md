@@ -72,6 +72,7 @@ leetcode problems
 | [0556-next-greater-element-iii](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0633-sum-of-square-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
@@ -186,6 +187,7 @@ leetcode problems
 | [0067-add-binary](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0344-reverse-string) |
 | [0556-next-greater-element-iii](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0556-next-greater-element-iii) |
+| [1894-merge-strings-alternately](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1894-merge-strings-alternately) |
 | [2401-count-asterisks](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/2401-count-asterisks) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3379-score-of-a-string](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/3379-score-of-a-string) |
