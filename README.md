@@ -94,6 +94,7 @@ leetcode problems
 | [0263-ugly-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0507-perfect-number) |
 | [0556-next-greater-element-iii](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0633-sum-of-square-numbers) |
@@ -114,6 +115,7 @@ leetcode problems
 | [0268-missing-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0907-koko-eating-bananas) |
