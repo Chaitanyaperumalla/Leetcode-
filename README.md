@@ -135,6 +135,7 @@ leetcode problems
 | [0217-contains-duplicate](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0496-next-greater-element-i) |
+| [0782-jewels-and-stones](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Matrix
@@ -201,6 +202,7 @@ leetcode problems
 | [0344-reverse-string](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0556-next-greater-element-iii) |
+| [0782-jewels-and-stones](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1894-merge-strings-alternately) |
 | [2401-count-asterisks](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/2401-count-asterisks) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
