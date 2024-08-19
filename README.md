@@ -112,6 +112,7 @@ leetcode problems
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0792-binary-search) |
@@ -247,4 +248,8 @@ leetcode problems
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1127-last-stone-weight) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
