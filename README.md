@@ -213,6 +213,7 @@ leetcode problems
 | [0556-next-greater-element-iii](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0556-next-greater-element-iii) |
 | [0782-jewels-and-stones](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/1894-merge-strings-alternately) |
+| [2235-capitalize-the-title](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/2235-capitalize-the-title) |
 | [2401-count-asterisks](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/2401-count-asterisks) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3379-score-of-a-string](https://github.com/Chaitanyaperumalla/Leetcode-/tree/master/3379-score-of-a-string) |
